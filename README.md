@@ -1,6 +1,6 @@
 # Nonrecursive Tower of Hanoi
 
-In this repository contains implementation of non recursive hanoy.
+This repository contains implementation of non recursive hanoy.
 
 ## Language
 The Project is written in C++
