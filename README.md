@@ -1,4 +1,4 @@
-# Nonrecursive Tower of Hanoi
+# Nonrecursive Tower of Hanoi  
 
 This repository contains implementation of non recursive hanoy.
 
